@@ -1,0 +1,106 @@
+@charset 'utf-8';
+
+:root {
+    font-size: 16px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    --primary--color: #5c5eff;
+}
+
+*, ::after, ::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1rem;
+    text-align: center;
+}
+
+.container {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.input-standard {
+    display: block;
+    padding: .3rem;
+    font-size: .8rem;
+    width: 100%;
+}
+
+.my-1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.my-2 {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.btn {
+    padding: .5rem;
+    border: none;
+    border-radius: 15px;
+    font-size: .9rem;
+}
+
+.btn-primary {
+    background-color: var(--primary--color);
+    color: white;
+}
+
+.btn-primary:hover {
+    background-color: #4749e2
+}
+
+.btn-large {
+    width: 100%;
+    display: block;
+}
+
+.table-standard {
+    width: 100%;
+}
+
+.table-standard {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+thead tr th {
+    border-bottom: solid ;
+}
+
+input#saisi-input {
+    text-align: center;
+    font-size: 1rem;
+}
+
+#print {
+    padding-bottom: 3rem;
+}
+
+.content-perfect-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: .5rem;
+}
+
+footer {
+    padding-bottom: 2rem;
+}
