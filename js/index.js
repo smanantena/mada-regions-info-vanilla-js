@@ -10,6 +10,7 @@ inputFokontanyName.tabIndex = 1
 
 
 let data, dataString
+let initDataState = false
 let search
 let resultToPrint
 const NUMBER_OF_DATA = 4
@@ -18,13 +19,10 @@ const CELLS_TYPES = ["td", "td", "td", "td"]
 const RESULT_TO_PRINT_MAX = 400
 
 const getDataFokontany = async () => {
-    try {
-        const dataFokontanyResponse = await fetch("./js/data/liste_fokontany_par_commune_data.json")
-        return dataFokontanyResponse.ok ? dataFokontanyResponse.json() : {}
-    } catch (error) {
 
-    }
-    return {}
+    const dataFokontanyResponse = await fetch("./js/data/liste_fokontany_par_commune_data.json")
+    return dataFokontanyResponse.ok ? dataFokontanyResponse.json() : {}
+
 }
 
 
@@ -32,7 +30,10 @@ const initData = async () => {
     data = await getDataFokontany()
     delete data.Region
     dataString = JSON.stringify(data)
-    return Object.values(data).length ? true : false
+    initDataState = Object.values(data).length ? true : false
+    if (!initDataState) {
+        containerForPrint.innerHTML = "<h2>Mbola tsy vonona ity tranokala ity.<br>Avereno sokafana rehefa kelikely.</h2>"
+    }
 }
 
 const searchFokontany = (searchStr, dataToHandle) => {
@@ -41,10 +42,9 @@ const searchFokontany = (searchStr, dataToHandle) => {
     const rexExpForSearch = new RegExp(`\{"commune":"[\w '-_\(\)]+","region":"[\w '-_\(\)]+","fokontany":"[\w '-_\(\)]*${search}[\w '-_\(\)]*","district":"[\w '-_\(\)]+"\}`, "ig")
     // const stringifyData = JSON.stringify(dataToHandle)
     const matchesValues = dataToHandle.match(rexExpForSearch)
-    
+
     let result = matchesValues.map(result => JSON.parse(result))
-    
-    
+
     return search ? result : undefined
 }
 
@@ -85,40 +85,42 @@ const generateTableHeading = (TABLE_HEADINGS) => {
 
 const handleOnChangeSearchInput = (event) => {
 
-    tbodyTag.innerHTML = ""
-    theadTag.innerHTML = ""
-    tableTag.innerHTML = ""
-    containerForPrint.innerHTML = "<h2>Data Loading...</h2>"
-    footerContainer.innerHTML = ""
-    try {
-        resultToPrint = searchFokontany(event.target.value, dataString)
-        
-        const resultLength = resultToPrint.length
-        
-        if (resultLength > RESULT_TO_PRINT_MAX) {
-            let pages = Math.floor(resultLength / RESULT_TO_PRINT_MAX) + (resultLength - Math.floor(resultLength / RESULT_TO_PRINT_MAX) * RESULT_TO_PRINT_MAX)
-            let sectionButtonsPagination = '<div class="content-perfect-center">'
-
-            for (let p = 1; p <= pages; p++) {
-                sectionButtonsPagination += '<button class="btn btn-primary" onclick="printPage(' + p + ')">p-' + String(p).padStart(2, "0") + '</button>'
-            }
-            sectionButtonsPagination += "</div>"
-            footerContainer.innerHTML = sectionButtonsPagination
-        }
-
-        if (resultLength) {
-            printPage(1)
-        }
-
-    } catch (error) {
-        
+    if (initDataState) {
+        tbodyTag.innerHTML = ""
+        theadTag.innerHTML = ""
+        tableTag.innerHTML = ""
+        containerForPrint.innerHTML = "<h2>Data Loading...</h2>"
         footerContainer.innerHTML = ""
-        if (error.toString().includes("null")) {
-            containerForPrint.innerHTML = "<h2>Tsy misy anarana fokontany toy io ato.</h2>"
-        }
+        try {
+            resultToPrint = searchFokontany(event.target.value, dataString)
 
-        if (error.toString().includes("undefined")) {
-            containerForPrint.innerHTML = ""
+            const resultLength = resultToPrint.length
+
+            if (resultLength > RESULT_TO_PRINT_MAX) {
+                let pages = Math.floor(resultLength / RESULT_TO_PRINT_MAX) + (resultLength - Math.floor(resultLength / RESULT_TO_PRINT_MAX) * RESULT_TO_PRINT_MAX)
+                let sectionButtonsPagination = '<div class="content-perfect-center">'
+
+                for (let p = 1; p <= pages; p++) {
+                    sectionButtonsPagination += '<button class="btn btn-primary" onclick="printPage(' + p + ')">p-' + String(p).padStart(2, "0") + '</button>'
+                }
+                sectionButtonsPagination += "</div>"
+                footerContainer.innerHTML = sectionButtonsPagination
+            }
+
+            if (resultLength) {
+                printPage(1)
+            }
+
+        } catch (error) {
+
+            footerContainer.innerHTML = ""
+            if (error.toString().includes("null")) {
+                containerForPrint.innerHTML = "<h2>Tsy misy anarana fokontany toy io ato.</h2>"
+            }
+
+            if (error.toString().includes("undefined")) {
+                containerForPrint.innerHTML = ""
+            }
         }
     }
 }
@@ -128,13 +130,13 @@ const clearInputForSearch = (input) => {
 }
 
 const printPage = (page = 1) => {
-    
+
     tbodyTag.innerHTML = ""
     theadTag.innerHTML = ""
     tableTag.innerHTML = ""
     containerForPrint.innerHTML = "<h2>Data Loading...</h2>"
 
-    
+
     theadTag.innerHTML = generateTableHeading(TABLE_HEADINGS)
     tableTag.innerHTML += theadTag.outerHTML
     tbodyTag.innerHTML = generateRowsOfTableOfResult(resultToPrint.slice(page - 1, page - 1 + RESULT_TO_PRINT_MAX))
@@ -143,7 +145,11 @@ const printPage = (page = 1) => {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    initData();
+    
+    initData()
+    inputFokontanyName.value = ""
+    
     inputFokontanyName.addEventListener("keyup", handleOnChangeSearchInput)
     inputFokontanyName.addEventListener("focus", handleOnChangeSearchInput)
+    
 })
