@@ -9,11 +9,11 @@ tableTag.classList.add('table-standard')
 inputFokontanyName.tabIndex = 1
 
 
-let data
+let data, dataString
 let search
 let resultToPrint
 const NUMBER_OF_DATA = 4
-const TABLE_HEADINGS = ["Région", "District", "Commune", "Fokontany"]
+const TABLE_HEADINGS = ["Fokontany", "Commune", "District", "Région"]
 const CELLS_TYPES = ["td", "td", "td", "td"]
 const RESULT_TO_PRINT_MAX = 400
 
@@ -31,18 +31,21 @@ const getDataFokontany = async () => {
 const initData = async () => {
     data = await getDataFokontany()
     delete data.Region
+    dataString = JSON.stringify(data)
     return Object.values(data).length ? true : false
 }
 
 const searchFokontany = (searchStr, dataToHandle) => {
     search = searchStr.trim()
 
-    const rexExpForSearch = new RegExp(`\{"commune":"[\w '-_]+","region":"[\w '-_]+","fokontany":"[\w '-_]*${search}[\w '-_]*","district":"[\w '-_]+"\}`, "ig")
-    const stringifyData = JSON.stringify(dataToHandle)
-    const matchesValues = stringifyData.match(rexExpForSearch)
+    const rexExpForSearch = new RegExp(`\{"commune":"[\w '-_\(\)]+","region":"[\w '-_\(\)]+","fokontany":"[\w '-_\(\)]*${search}[\w '-_\(\)]*","district":"[\w '-_\(\)]+"\}`, "ig")
+    // const stringifyData = JSON.stringify(dataToHandle)
+    const matchesValues = dataToHandle.match(rexExpForSearch)
+    
     let result = matchesValues.map(result => JSON.parse(result))
-
-    return search ? result : null
+    
+    
+    return search ? result : undefined
 }
 
 const generateElementTDTag = ({ htmlOuter, textContent }) => {
@@ -67,16 +70,17 @@ const generateRowsOfTableOfResult = (results) => {
     let tempVarArray = ''
     for (const result of results) {
         [commune, region, fokontany, district] = Object.values(result)
-        let fokontanyTemp = fokontany.substring(fokontany.toUpperCase().indexOf(search.toUpperCase()), fokontany.toUpperCase().indexOf(search.toUpperCase()) + search.length)
-        tempResult = [region, district, commune, fokontany.replace(new RegExp(`${search}`, "i"), `<span style="background-color: yellow;">${fokontanyTemp}</span>`)]
-        tempVarArray += `<tr><td>${tempResult.join('</td><td>')}</td></tr>`
+        const indexOfSearch = fokontany.toUpperCase().indexOf(search.toUpperCase())
+        let fokontanyTemp = fokontany.substring(indexOfSearch, indexOfSearch + search.length)
+        tempResult = [fokontany.replace(new RegExp(`${search}`, "i"), `<span style="background-color: yellow;">${fokontanyTemp}</span>`), commune, district, region]
+        tempVarArray += `<tr><td class="hit-cell">${tempResult.join('</td><td>')}</td></tr>`
     }
     return tempVarArray
 }
 
 const generateTableHeading = (TABLE_HEADINGS) => {
 
-    return `<tr><th scope="col">${TABLE_HEADINGS.join('</th><th scope="col">')}</th></tr>`
+    return `<tr><th class="hit-cell" scope="col">${TABLE_HEADINGS.join('</th><th scope="col">')}</th></tr>`
 }
 
 const handleOnChangeSearchInput = (event) => {
@@ -87,8 +91,10 @@ const handleOnChangeSearchInput = (event) => {
     containerForPrint.innerHTML = "<h2>Data Loading...</h2>"
     footerContainer.innerHTML = ""
     try {
-        resultToPrint = searchFokontany(event.target.value, data)
+        resultToPrint = searchFokontany(event.target.value, dataString)
+        
         const resultLength = resultToPrint.length
+        
         if (resultLength > RESULT_TO_PRINT_MAX) {
             let pages = Math.floor(resultLength / RESULT_TO_PRINT_MAX) + (resultLength - Math.floor(resultLength / RESULT_TO_PRINT_MAX) * RESULT_TO_PRINT_MAX)
             let sectionButtonsPagination = '<div class="content-perfect-center">'
@@ -105,9 +111,15 @@ const handleOnChangeSearchInput = (event) => {
         }
 
     } catch (error) {
-        containerForPrint.innerHTML = "<h2>Tsy misy anarana fokontany toy io ato.</h2>"
+        
         footerContainer.innerHTML = ""
-        console.log(error)
+        if (error.toString().includes("null")) {
+            containerForPrint.innerHTML = "<h2>Tsy misy anarana fokontany toy io ato.</h2>"
+        }
+
+        if (error.toString().includes("undefined")) {
+            containerForPrint.innerHTML = ""
+        }
     }
 }
 
@@ -125,7 +137,7 @@ const printPage = (page = 1) => {
     
     theadTag.innerHTML = generateTableHeading(TABLE_HEADINGS)
     tableTag.innerHTML += theadTag.outerHTML
-    tbodyTag.innerHTML = generateRowsOfTableOfResult(resultToPrint.slice(page, page + RESULT_TO_PRINT_MAX))
+    tbodyTag.innerHTML = generateRowsOfTableOfResult(resultToPrint.slice(page - 1, page - 1 + RESULT_TO_PRINT_MAX))
     tableTag.innerHTML += tbodyTag.outerHTML
     containerForPrint.innerHTML = tableTag.outerHTML
 }

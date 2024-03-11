@@ -9760,7 +9760,7 @@
             {
                 "commune": "Commune Urbaine d'Antananarivo",
                 "region": "ANALAMANGA",
-                "fokontany": "Andafiavaratra-Ambavahadimitafo-Rats\/va-A\/py-Am\/na",
+                "fokontany": "Andafiavaratra-Ambavahadimitafo-Rats/va-A/py-Am/na",
                 "district": "Antananarivo-II"
             },
             {
@@ -20934,13 +20934,13 @@
             {
                 "commune": "BETAFO",
                 "region": "VAKINANKARATRA",
-                "fokontany": "A\/TSENA I AMBODIFARIHY",
+                "fokontany": "A/TSENA I AMBODIFARIHY",
                 "district": "BETAFO"
             },
             {
                 "commune": "BETAFO",
                 "region": "VAKINANKARATRA",
-                "fokontany": "A\/TSENA II ATSIMOTSENA",
+                "fokontany": "A/TSENA II ATSIMOTSENA",
                 "district": "BETAFO"
             },
             {
@@ -21434,7 +21434,7 @@
             {
                 "commune": "FARATSIHO",
                 "region": "VAKINANKARATRA",
-                "fokontany": "ANTSIRA\/TSIANDRAMANA",
+                "fokontany": "ANTSIRA/TSIANDRAMANA",
                 "district": "FARATSIHO"
             }
         ],
@@ -21738,7 +21738,7 @@
             {
                 "commune": "VINANINONY SUD",
                 "region": "VAKINANKARATRA",
-                "fokontany": "AMBERO\/TSARAMODY",
+                "fokontany": "AMBERO/TSARAMODY",
                 "district": "FARATSIHO"
             },
             {
@@ -21750,7 +21750,7 @@
             {
                 "commune": "VINANINONY SUD",
                 "region": "VAKINANKARATRA",
-                "fokontany": "AMBOHITRARIVO\/MAHASOA",
+                "fokontany": "AMBOHITRARIVO/MAHASOA",
                 "district": "FARATSIHO"
             },
             {
@@ -21762,7 +21762,7 @@
             {
                 "commune": "VINANINONY SUD",
                 "region": "VAKINANKARATRA",
-                "fokontany": "TELOMIREFY\/SOAHIADANANA",
+                "fokontany": "TELOMIREFY/SOAHIADANANA",
                 "district": "FARATSIHO"
             }
         ],
@@ -22540,7 +22540,7 @@
             {
                 "commune": "AMBOHITRANDRIANA",
                 "region": "DIANA",
-                "fokontany": "MAROVATO\/SAVOKA",
+                "fokontany": "MAROVATO/SAVOKA",
                 "district": "AMBANJA"
             }
         ],
@@ -26844,7 +26844,7 @@
             {
                 "commune": "AMBALABE",
                 "region": "SAVA",
-                "fokontany": "AMBALABE \/ ANTSAMPANANA",
+                "fokontany": "AMBALABE / ANTSAMPANANA",
                 "district": "ANTALAHA"
             },
             {
@@ -26856,13 +26856,13 @@
             {
                 "commune": "AMBALABE",
                 "region": "SAVA",
-                "fokontany": "TANANAMBO \/ ANTANAMBAO",
+                "fokontany": "TANANAMBO / ANTANAMBAO",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMBALABE",
                 "region": "SAVA",
-                "fokontany": "MANAKANA \/ AMBOLOBE",
+                "fokontany": "MANAKANA / AMBOLOBE",
                 "district": "ANTALAHA"
             },
             {
@@ -26924,19 +26924,19 @@
             {
                 "commune": "AMBINANIFAHO",
                 "region": "SAVA",
-                "fokontany": "AMBINANIFAHO \/ TANAMBAOVAO",
+                "fokontany": "AMBINANIFAHO / TANAMBAOVAO",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMBINANIFAHO",
                 "region": "SAVA",
-                "fokontany": "AMBODIMANGA \/ TANANANIVO",
+                "fokontany": "AMBODIMANGA / TANANANIVO",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMBINANIFAHO",
                 "region": "SAVA",
-                "fokontany": "AMPANANTSOVANA \/ AMBODIPONT ISA",
+                "fokontany": "AMPANANTSOVANA / AMBODIPONT ISA",
                 "district": "ANTALAHA"
             },
             {
@@ -26948,7 +26948,7 @@
             {
                 "commune": "AMBINANIFAHO",
                 "region": "SAVA",
-                "fokontany": "TSARAHONENANA \/ AMBODISATRANA",
+                "fokontany": "TSARAHONENANA / AMBODISATRANA",
                 "district": "ANTALAHA"
             }
         ],
@@ -26956,7 +26956,7 @@
             {
                 "commune": "AMBOHITRALANANA",
                 "region": "SAVA",
-                "fokontany": "AMBOHITRALANANA \/ TANAMBAOVAO \/",
+                "fokontany": "AMBOHITRALANANA / TANAMBAOVAO /",
                 "district": "ANTALAHA"
             },
             {
@@ -26980,13 +26980,13 @@
             {
                 "commune": "AMBOHITRALANANA",
                 "region": "SAVA",
-                "fokontany": "AMBOHIMAHERY \/ MAHARAVO",
+                "fokontany": "AMBOHIMAHERY / MAHARAVO",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMBOHITRALANANA",
                 "region": "SAVA",
-                "fokontany": "RATSIANARANA \/ ANTSOHAMBAVY",
+                "fokontany": "RATSIANARANA / ANTSOHAMBAVY",
                 "district": "ANTALAHA"
             },
             {
@@ -27010,7 +27010,7 @@
             {
                 "commune": "AMBOHITRALANANA",
                 "region": "SAVA",
-                "fokontany": "SAHAFARY \/ AMBODIMANGATELO",
+                "fokontany": "SAHAFARY / AMBODIMANGATELO",
                 "district": "ANTALAHA"
             },
             {
@@ -27024,19 +27024,19 @@
             {
                 "commune": "AMPAHANA",
                 "region": "SAVA",
-                "fokontany": "AMPAHANA\/ANTSERANAMBIDY\/ANTAM",
+                "fokontany": "AMPAHANA/ANTSERANAMBIDY/ANTAM",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMPAHANA",
                 "region": "SAVA",
-                "fokontany": "ANDROHAVITRA\/FARIMAY",
+                "fokontany": "ANDROHAVITRA/FARIMAY",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMPAHANA",
                 "region": "SAVA",
-                "fokontany": "MAROMOKOTRA\/BEAMPONGA",
+                "fokontany": "MAROMOKOTRA/BEAMPONGA",
                 "district": "ANTALAHA"
             },
             {
@@ -27048,31 +27048,31 @@
             {
                 "commune": "AMPAHANA",
                 "region": "SAVA",
-                "fokontany": "ANDRANOTSARA\/AMBOANGY\/AMPOMB",
+                "fokontany": "ANDRANOTSARA/AMBOANGY/AMPOMB",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMPAHANA",
                 "region": "SAVA",
-                "fokontany": "ANDAMASINA\/ANDRANOMALOTO\/ANKO",
+                "fokontany": "ANDAMASINA/ANDRANOMALOTO/ANKO",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMPAHANA",
                 "region": "SAVA",
-                "fokontany": "AMPOBE\/ANDASILAVA\/AMBODIVAROTR",
+                "fokontany": "AMPOBE/ANDASILAVA/AMBODIVAROTR",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMPAHANA",
                 "region": "SAVA",
-                "fokontany": "BEKONA\/TANAMBAO\/TSARARANO\/AMB",
+                "fokontany": "BEKONA/TANAMBAO/TSARARANO/AMB",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "AMPAHANA",
                 "region": "SAVA",
-                "fokontany": "AMPOTATRA\/AMBODIMANGAMARO-MA",
+                "fokontany": "AMPOTATRA/AMBODIMANGAMARO-MA",
                 "district": "ANTALAHA"
             },
             {
@@ -27160,7 +27160,7 @@
             {
                 "commune": "AMPOHIBE",
                 "region": "SAVA",
-                "fokontany": "AMPOHIBE\/ANDROHIFARY\/TANAMBAOV",
+                "fokontany": "AMPOHIBE/ANDROHIFARY/TANAMBAOV",
                 "district": "ANTALAHA"
             },
             {
@@ -27172,7 +27172,7 @@
             {
                 "commune": "AMPOHIBE",
                 "region": "SAVA",
-                "fokontany": "AMBODIVOANGIBE\/MORAFENO\/ANDON",
+                "fokontany": "AMBODIVOANGIBE/MORAFENO/ANDON",
                 "district": "ANTALAHA"
             },
             {
@@ -27258,7 +27258,7 @@
             {
                 "commune": "ANDAMPY",
                 "region": "SAVA",
-                "fokontany": "ANTSAHABEORANA \/ AMBODIVOANGIBE",
+                "fokontany": "ANTSAHABEORANA / AMBODIVOANGIBE",
                 "district": "ANTALAHA"
             },
             {
@@ -27284,7 +27284,7 @@
             {
                 "commune": "ANTALAHA",
                 "region": "SAVA",
-                "fokontany": "AMBATOMITRAKA\/Ampefibe\/Ambinany",
+                "fokontany": "AMBATOMITRAKA/Ampefibe/Ambinany",
                 "district": "ANTALAHA"
             },
             {
@@ -27320,19 +27320,19 @@
             {
                 "commune": "ANTALAHA",
                 "region": "SAVA",
-                "fokontany": "AMBODIKAKAZO\/Bevapaza\/Marofelana\/",
+                "fokontany": "AMBODIKAKAZO/Bevapaza/Marofelana/",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTALAHA",
                 "region": "SAVA",
-                "fokontany": "ANTEVIALA\/Andrakaraka",
+                "fokontany": "ANTEVIALA/Andrakaraka",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTALAHA",
                 "region": "SAVA",
-                "fokontany": "ANTSAHAMANENONA\/Anorontany",
+                "fokontany": "ANTSAHAMANENONA/Anorontany",
                 "district": "ANTALAHA"
             },
             {
@@ -27344,31 +27344,31 @@
             {
                 "commune": "ANTALAHA",
                 "region": "SAVA",
-                "fokontany": "ANJIAMANGOTROKA\/Antanananivo",
+                "fokontany": "ANJIAMANGOTROKA/Antanananivo",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTALAHA",
                 "region": "SAVA",
-                "fokontany": "AMBOHITSARA\/Andrakaraka",
+                "fokontany": "AMBOHITSARA/Andrakaraka",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTALAHA",
                 "region": "SAVA",
-                "fokontany": "TANAMBAO AMPANO\/Andripika\/Antana",
+                "fokontany": "TANAMBAO AMPANO/Andripika/Antana",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTALAHA",
                 "region": "SAVA",
-                "fokontany": "AMBODIBONARA\/Antsinjomiseky\/Santah",
+                "fokontany": "AMBODIBONARA/Antsinjomiseky/Santah",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTALAHA",
                 "region": "SAVA",
-                "fokontany": "AMBATOFISAKA\/Mahevadoany\/Manamb",
+                "fokontany": "AMBATOFISAKA/Mahevadoany/Manamb",
                 "district": "ANTALAHA"
             }
         ],
@@ -27376,31 +27376,31 @@
             {
                 "commune": "ANTANANAMBO",
                 "region": "SAVA",
-                "fokontany": "ANTANANAMBO\/Maevatanana I\/Antana",
+                "fokontany": "ANTANANAMBO/Maevatanana I/Antana",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTANANAMBO",
                 "region": "SAVA",
-                "fokontany": "AMBODIGAVO\/Ankazomihongo\/Antevila",
+                "fokontany": "AMBODIGAVO/Ankazomihongo/Antevila",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTANANAMBO",
                 "region": "SAVA",
-                "fokontany": "ANALAMAZAVA\/Marosa\/Tsaratanana\/Sav",
+                "fokontany": "ANALAMAZAVA/Marosa/Tsaratanana/Sav",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTANANAMBO",
                 "region": "SAVA",
-                "fokontany": "TANAMBAO-MANARIBASY\/TANAMBAOV",
+                "fokontany": "TANAMBAO-MANARIBASY/TANAMBAOV",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTANANAMBO",
                 "region": "SAVA",
-                "fokontany": "ANTSAHAMANARA\/Nosy-varika",
+                "fokontany": "ANTSAHAMANARA/Nosy-varika",
                 "district": "ANTALAHA"
             },
             {
@@ -27412,13 +27412,13 @@
             {
                 "commune": "ANTANANAMBO",
                 "region": "SAVA",
-                "fokontany": "ANTETEZANINTSINA\/Ambohimitsinjo",
+                "fokontany": "ANTETEZANINTSINA/Ambohimitsinjo",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTANANAMBO",
                 "region": "SAVA",
-                "fokontany": "MAROFINARITRA\/Manakana\/Menagisy\/A",
+                "fokontany": "MAROFINARITRA/Manakana/Menagisy/A",
                 "district": "ANTALAHA"
             },
             {
@@ -27584,25 +27584,25 @@
             {
                 "commune": "ANTSAHANORO",
                 "region": "SAVA",
-                "fokontany": "AMBOMPOLAVA \/ANTSOLOPETA",
+                "fokontany": "AMBOMPOLAVA /ANTSOLOPETA",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTSAHANORO",
                 "region": "SAVA",
-                "fokontany": "MAROKOSA \/AMBALATENINA",
+                "fokontany": "MAROKOSA /AMBALATENINA",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTSAHANORO",
                 "region": "SAVA",
-                "fokontany": "ANDRORANGA \/VALAAMBANINA \/MALOT",
+                "fokontany": "ANDRORANGA /VALAAMBANINA /MALOT",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTSAHANORO",
                 "region": "SAVA",
-                "fokontany": "AMPOHAFANA \/AMBODIVOANGY\/AMBO",
+                "fokontany": "AMPOHAFANA /AMBODIVOANGY/AMBO",
                 "district": "ANTALAHA"
             },
             {
@@ -27614,19 +27614,19 @@
             {
                 "commune": "ANTSAHANORO",
                 "region": "SAVA",
-                "fokontany": "ANTSAHANIANTINA\/ANTSANDRAVAVA",
+                "fokontany": "ANTSAHANIANTINA/ANTSANDRAVAVA",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTSAHANORO",
                 "region": "SAVA",
-                "fokontany": "MALOTRANDRO\/ANDRANOVATO",
+                "fokontany": "MALOTRANDRO/ANDRANOVATO",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "ANTSAHANORO",
                 "region": "SAVA",
-                "fokontany": "AMBOHIMARINA II\/ANTSIRANAMATSO\/A",
+                "fokontany": "AMBOHIMARINA II/ANTSIRANAMATSO/A",
                 "district": "ANTALAHA"
             },
             {
@@ -27658,7 +27658,7 @@
             {
                 "commune": "ANTSAMBALAHY",
                 "region": "SAVA",
-                "fokontany": "ANTSIRABE\/MAFAIKAKAZO",
+                "fokontany": "ANTSIRABE/MAFAIKAKAZO",
                 "district": "ANTALAHA"
             },
             {
@@ -27896,13 +27896,13 @@
             {
                 "commune": "SAHANTAHA",
                 "region": "SAVA",
-                "fokontany": "ANKIANKATELY\/ANJAHAMARINA II\/TANA",
+                "fokontany": "ANKIANKATELY/ANJAHAMARINA II/TANA",
                 "district": "ANTALAHA"
             },
             {
                 "commune": "SAHANTAHA",
                 "region": "SAVA",
-                "fokontany": "AMPATAKANA\/MAHASOA\/AMBODIROTR",
+                "fokontany": "AMPATAKANA/MAHASOA/AMBODIROTR",
                 "district": "ANTALAHA"
             },
             {
@@ -28398,7 +28398,7 @@
             {
                 "commune": "ANALAMAHO",
                 "region": "SAVA",
-                "fokontany": "ANTANAMBAO \/Ambinanimbe",
+                "fokontany": "ANTANAMBAO /Ambinanimbe",
                 "district": "SAMBAVA"
             },
             {
@@ -28428,13 +28428,13 @@
             {
                 "commune": "ANALAMAHO",
                 "region": "SAVA",
-                "fokontany": "AMBAKIRANO\/Betsomanga",
+                "fokontany": "AMBAKIRANO/Betsomanga",
                 "district": "SAMBAVA"
             },
             {
                 "commune": "ANALAMAHO",
                 "region": "SAVA",
-                "fokontany": "ANJINGO\/Andilambe",
+                "fokontany": "ANJINGO/Andilambe",
                 "district": "SAMBAVA"
             }
         ],
@@ -29530,13 +29530,13 @@
             {
                 "commune": "MAROGAONA",
                 "region": "SAVA",
-                "fokontany": "ANTSAHABETANIMENA\/Ambatoharanana",
+                "fokontany": "ANTSAHABETANIMENA/Ambatoharanana",
                 "district": "SAMBAVA"
             },
             {
                 "commune": "MAROGAONA",
                 "region": "SAVA",
-                "fokontany": "AMPASIMANDROATRA\/Belambo",
+                "fokontany": "AMPASIMANDROATRA/Belambo",
                 "district": "SAMBAVA"
             },
             {
@@ -29622,7 +29622,7 @@
             {
                 "commune": "MAROJALA",
                 "region": "SAVA",
-                "fokontany": "AMPOHAFANA\/Antsahalava\/Ambavala\/T",
+                "fokontany": "AMPOHAFANA/Antsahalava/Ambavala/T",
                 "district": "SAMBAVA"
             },
             {
@@ -36298,33 +36298,33 @@
                 "district": "FARAFANGANA"
             }
         ],
-        "AMBALAVATO\/ANTEVATO": [
+        "AMBALAVATO/ANTEVATO": [
             {
-                "commune": "AMBALAVATO\/ANTEVATO",
+                "commune": "AMBALAVATO/ANTEVATO",
                 "region": "ATSIMO-ATSINANANA",
                 "fokontany": "BERETRA II",
                 "district": "FARAFANGANA"
             },
             {
-                "commune": "AMBALAVATO\/ANTEVATO",
+                "commune": "AMBALAVATO/ANTEVATO",
                 "region": "ATSIMO-ATSINANANA",
                 "fokontany": "ANEZANDAVA",
                 "district": "FARAFANGANA"
             },
             {
-                "commune": "AMBALAVATO\/ANTEVATO",
+                "commune": "AMBALAVATO/ANTEVATO",
                 "region": "ATSIMO-ATSINANANA",
                 "fokontany": "MAROVATO",
                 "district": "FARAFANGANA"
             },
             {
-                "commune": "AMBALAVATO\/ANTEVATO",
+                "commune": "AMBALAVATO/ANTEVATO",
                 "region": "ATSIMO-ATSINANANA",
                 "fokontany": "SINDRIKATSY",
                 "district": "FARAFANGANA"
             },
             {
-                "commune": "AMBALAVATO\/ANTEVATO",
+                "commune": "AMBALAVATO/ANTEVATO",
                 "region": "ATSIMO-ATSINANANA",
                 "fokontany": "AMBALAVATO",
                 "district": "FARAFANGANA"
@@ -36762,7 +36762,7 @@
             {
                 "commune": "BEVOAY BERETRA",
                 "region": "ATSIMO-ATSINANANA",
-                "fokontany": "NOSIBE \/ MAROTOKO",
+                "fokontany": "NOSIBE / MAROTOKO",
                 "district": "FARAFANGANA"
             },
             {
@@ -36800,7 +36800,7 @@
             {
                 "commune": "EFATSY ANANDROZA",
                 "region": "ATSIMO-ATSINANANA",
-                "fokontany": "VOLOLENE\/VOASEVA",
+                "fokontany": "VOLOLENE/VOASEVA",
                 "district": "FARAFANGANA"
             },
             {
@@ -36850,7 +36850,7 @@
             {
                 "commune": "ETROTROKA",
                 "region": "ATSIMO-ATSINANANA",
-                "fokontany": "BEKARAOKA\/ANTONDABE",
+                "fokontany": "BEKARAOKA/ANTONDABE",
                 "district": "FARAFANGANA"
             },
             {
@@ -37082,19 +37082,19 @@
             {
                 "commune": "FARAFANGANA",
                 "region": "ATSIMO-ATSINANANA",
-                "fokontany": "MAHAFASA\/NORD",
+                "fokontany": "MAHAFASA/NORD",
                 "district": "FARAFANGANA"
             },
             {
                 "commune": "FARAFANGANA",
                 "region": "ATSIMO-ATSINANANA",
-                "fokontany": "MAHAFASA\/SUD",
+                "fokontany": "MAHAFASA/SUD",
                 "district": "FARAFANGANA"
             },
             {
                 "commune": "FARAFANGANA",
                 "region": "ATSIMO-ATSINANANA",
-                "fokontany": "MAHAFASA\/OUEST",
+                "fokontany": "MAHAFASA/OUEST",
                 "district": "FARAFANGANA"
             },
             {
@@ -37392,7 +37392,7 @@
             {
                 "commune": "MAHABO MANANIVO",
                 "region": "ATSIMO-ATSINANANA",
-                "fokontany": "MAHABO \/ MANANIVO",
+                "fokontany": "MAHABO / MANANIVO",
                 "district": "FARAFANGANA"
             },
             {
@@ -37728,7 +37728,7 @@
             {
                 "commune": "NAMOHORA IABORANO",
                 "region": "ATSIMO-ATSINANANA",
-                "fokontany": "MAHABE\/SARITENY",
+                "fokontany": "MAHABE/SARITENY",
                 "district": "FARAFANGANA"
             },
             {
@@ -42486,7 +42486,7 @@
             {
                 "commune": "ISAKA",
                 "region": "HAUTE MATSIATRA",
-                "fokontany": "ANTALATA \/ ISAKA",
+                "fokontany": "ANTALATA / ISAKA",
                 "district": "AMBOHIMAHASOA"
             },
             {
@@ -45876,7 +45876,7 @@
             {
                 "commune": "BEGOGO",
                 "region": "IHOROMBE",
-                "fokontany": "BEGOGO\/CENTRE",
+                "fokontany": "BEGOGO/CENTRE",
                 "district": "IAKORA"
             },
             {
@@ -45992,7 +45992,7 @@
             {
                 "commune": "IAKORA",
                 "region": "IHOROMBE",
-                "fokontany": "NANARENA\/BEKOFAFA",
+                "fokontany": "NANARENA/BEKOFAFA",
                 "district": "IAKORA"
             },
             {
@@ -46054,13 +46054,13 @@
             {
                 "commune": "RANOTSARA NORD",
                 "region": "IHOROMBE",
-                "fokontany": "BEKATRA\/TSARAHONENANA",
+                "fokontany": "BEKATRA/TSARAHONENANA",
                 "district": "IAKORA"
             },
             {
                 "commune": "RANOTSARA NORD",
                 "region": "IHOROMBE",
-                "fokontany": "BEADABO\/MANATSARA",
+                "fokontany": "BEADABO/MANATSARA",
                 "district": "IAKORA"
             },
             {
@@ -52924,7 +52924,7 @@
             {
                 "commune": "TSARATANANA",
                 "region": "VATOVAVY",
-                "fokontany": "ANDRORANGAVOLA\/VATOFOTSY",
+                "fokontany": "ANDRORANGAVOLA/VATOFOTSY",
                 "district": "IFANADIANA"
             },
             {
@@ -56850,7 +56850,7 @@
             {
                 "commune": "MAEVATANANA I",
                 "region": "BETSIBOKA",
-                "fokontany": "ANOSIKELY\/AVARATRA",
+                "fokontany": "ANOSIKELY/AVARATRA",
                 "district": "MAEVATANANA"
             },
             {
@@ -56880,7 +56880,7 @@
             {
                 "commune": "MAEVATANANA I",
                 "region": "BETSIBOKA",
-                "fokontany": "ANOSIKELY\/ATSIMO",
+                "fokontany": "ANOSIKELY/ATSIMO",
                 "district": "MAEVATANANA"
             },
             {
@@ -57478,39 +57478,39 @@
                 "district": "MAEVATANANA"
             }
         ],
-        "BERIVOTRA 5\/5": [
+        "BERIVOTRA 5/5": [
             {
-                "commune": "BERIVOTRA 5\/5",
+                "commune": "BERIVOTRA 5/5",
                 "region": "BETSIBOKA",
-                "fokontany": "BERIVOTRA 5\/5",
+                "fokontany": "BERIVOTRA 5/5",
                 "district": "MAEVATANANA"
             },
             {
-                "commune": "BERIVOTRA 5\/5",
+                "commune": "BERIVOTRA 5/5",
                 "region": "BETSIBOKA",
                 "fokontany": "AMBODIBONARA",
                 "district": "MAEVATANANA"
             },
             {
-                "commune": "BERIVOTRA 5\/5",
+                "commune": "BERIVOTRA 5/5",
                 "region": "BETSIBOKA",
                 "fokontany": "AMBALABONGO",
                 "district": "MAEVATANANA"
             },
             {
-                "commune": "BERIVOTRA 5\/5",
+                "commune": "BERIVOTRA 5/5",
                 "region": "BETSIBOKA",
                 "fokontany": "MADIROTELO",
                 "district": "MAEVATANANA"
             },
             {
-                "commune": "BERIVOTRA 5\/5",
+                "commune": "BERIVOTRA 5/5",
                 "region": "BETSIBOKA",
                 "fokontany": "BETAKILOTRA",
                 "district": "MAEVATANANA"
             },
             {
-                "commune": "BERIVOTRA 5\/5",
+                "commune": "BERIVOTRA 5/5",
                 "region": "BETSIBOKA",
                 "fokontany": "ANOSINDAMBO",
                 "district": "MAEVATANANA"
@@ -59474,7 +59474,7 @@
             {
                 "commune": "MAHAJANGA",
                 "region": "BOENY",
-                "fokontany": "ABATTOIR\/MAROVATO",
+                "fokontany": "ABATTOIR/MAROVATO",
                 "district": "MAHAJANGA I"
             },
             {
@@ -59504,7 +59504,7 @@
             {
                 "commune": "MAHAJANGA",
                 "region": "BOENY",
-                "fokontany": "TANAMBAO\/SOTEMA",
+                "fokontany": "TANAMBAO/SOTEMA",
                 "district": "MAHAJANGA I"
             },
             {
@@ -59540,7 +59540,7 @@
             {
                 "commune": "MAHAJANGA",
                 "region": "BOENY",
-                "fokontany": "ANTANAMBAO\/AMBALAVATO",
+                "fokontany": "ANTANAMBAO/AMBALAVATO",
                 "district": "MAHAJANGA I"
             },
             {
@@ -59552,13 +59552,13 @@
             {
                 "commune": "MAHAJANGA",
                 "region": "BOENY",
-                "fokontany": "TSARARANO\/ANOSIKELY",
+                "fokontany": "TSARARANO/ANOSIKELY",
                 "district": "MAHAJANGA I"
             },
             {
                 "commune": "MAHAJANGA",
                 "region": "BOENY",
-                "fokontany": "TSARARANO\/AMBANY",
+                "fokontany": "TSARARANO/AMBANY",
                 "district": "MAHAJANGA I"
             },
             {
@@ -60760,7 +60760,7 @@
             {
                 "commune": "MAROVOAY",
                 "region": "BOENY",
-                "fokontany": "ANKINGABE\/AMBALAMANGA",
+                "fokontany": "ANKINGABE/AMBALAMANGA",
                 "district": "MAROVOAY"
             },
             {
@@ -60790,7 +60790,7 @@
             {
                 "commune": "MAROVOAY",
                 "region": "BOENY",
-                "fokontany": "MANDROSOA\/12KM",
+                "fokontany": "MANDROSOA/12KM",
                 "district": "MAROVOAY"
             },
             {
@@ -60820,7 +60820,7 @@
             {
                 "commune": "MAROVOAY",
                 "region": "BOENY",
-                "fokontany": "FIHAONANA\/MADIRONDOLO",
+                "fokontany": "FIHAONANA/MADIRONDOLO",
                 "district": "MAROVOAY"
             }
         ],
@@ -62584,7 +62584,7 @@
             {
                 "commune": "BEKODOKA",
                 "region": "MELAKY",
-                "fokontany": "AMPANIHY \/ BELELA",
+                "fokontany": "AMPANIHY / BELELA",
                 "district": "BESALAMPY"
             },
             {
@@ -62782,7 +62782,7 @@
             {
                 "commune": "MAROVOAY SUD",
                 "region": "MELAKY",
-                "fokontany": "AMPOZA\/SOARANO",
+                "fokontany": "AMPOZA/SOARANO",
                 "district": "BESALAMPY"
             },
             {
@@ -63290,7 +63290,7 @@
             {
                 "commune": "BEMOKOTRA SUD",
                 "region": "MELAKY",
-                "fokontany": "ANKERABE\/SUD",
+                "fokontany": "ANKERABE/SUD",
                 "district": "MAINTIRANO"
             },
             {
@@ -63514,13 +63514,13 @@
             {
                 "commune": "MAINTIRANO",
                 "region": "MELAKY",
-                "fokontany": "TANAMBAO\/SPM",
+                "fokontany": "TANAMBAO/SPM",
                 "district": "MAINTIRANO"
             },
             {
                 "commune": "MAINTIRANO",
                 "region": "MELAKY",
-                "fokontany": "TANAMBAO\/NORD",
+                "fokontany": "TANAMBAO/NORD",
                 "district": "MAINTIRANO"
             },
             {
@@ -63544,7 +63544,7 @@
             {
                 "commune": "MAINTIRANO",
                 "region": "MELAKY",
-                "fokontany": "TANAMBAO \/ METEO",
+                "fokontany": "TANAMBAO / METEO",
                 "district": "MAINTIRANO"
             }
         ],
@@ -63658,7 +63658,7 @@
             {
                 "commune": "TAMBOHORANO",
                 "region": "MELAKY",
-                "fokontany": "BEMOKOTRA\/ANASY",
+                "fokontany": "BEMOKOTRA/ANASY",
                 "district": "MAINTIRANO"
             },
             {
@@ -64482,7 +64482,7 @@
             {
                 "commune": "ANKARAMY",
                 "region": "SOFIA",
-                "fokontany": "AMBALAFONTSY\/ANJIALAVA",
+                "fokontany": "AMBALAFONTSY/ANJIALAVA",
                 "district": "ANALALAVA"
             }
         ],
@@ -65966,7 +65966,7 @@
             {
                 "commune": "ANTSOHIHY",
                 "region": "SOFIA",
-                "fokontany": "HAUTE\/VILLE",
+                "fokontany": "HAUTE/VILLE",
                 "district": "ANTSOHIHY"
             },
             {
@@ -65984,43 +65984,43 @@
             {
                 "commune": "ANTSOHIHY",
                 "region": "SOFIA",
-                "fokontany": "AMBALABE\/OUEST I",
+                "fokontany": "AMBALABE/OUEST I",
                 "district": "ANTSOHIHY"
             },
             {
                 "commune": "ANTSOHIHY",
                 "region": "SOFIA",
-                "fokontany": "AMBALABE\/OUEST II",
+                "fokontany": "AMBALABE/OUEST II",
                 "district": "ANTSOHIHY"
             },
             {
                 "commune": "ANTSOHIHY",
                 "region": "SOFIA",
-                "fokontany": "AMBALABE\/EST",
+                "fokontany": "AMBALABE/EST",
                 "district": "ANTSOHIHY"
             },
             {
                 "commune": "ANTSOHIHY",
                 "region": "SOFIA",
-                "fokontany": "ANKIRIRIKY\/NORD I",
+                "fokontany": "ANKIRIRIKY/NORD I",
                 "district": "ANTSOHIHY"
             },
             {
                 "commune": "ANTSOHIHY",
                 "region": "SOFIA",
-                "fokontany": "ANKIRIRIKY\/NORD II",
+                "fokontany": "ANKIRIRIKY/NORD II",
                 "district": "ANTSOHIHY"
             },
             {
                 "commune": "ANTSOHIHY",
                 "region": "SOFIA",
-                "fokontany": "ANKIRIRIKY\/SUD I",
+                "fokontany": "ANKIRIRIKY/SUD I",
                 "district": "ANTSOHIHY"
             },
             {
                 "commune": "ANTSOHIHY",
                 "region": "SOFIA",
-                "fokontany": "ANKIRIRIKY\/SUD II",
+                "fokontany": "ANKIRIRIKY/SUD II",
                 "district": "ANTSOHIHY"
             }
         ],
@@ -66678,7 +66678,7 @@
             {
                 "commune": "ANKAZOTOKANA",
                 "region": "SOFIA",
-                "fokontany": "ANTANAMBAO\/BESAHONO",
+                "fokontany": "ANTANAMBAO/BESAHONO",
                 "district": "BEALANANA"
             },
             {
@@ -69854,7 +69854,7 @@
             {
                 "commune": "AMBALAKIRAJY",
                 "region": "SOFIA",
-                "fokontany": "MAROABOALY\/ ANKOTSIKA",
+                "fokontany": "MAROABOALY/ ANKOTSIKA",
                 "district": "MANDRITSARA"
             },
             {
@@ -70318,7 +70318,7 @@
             {
                 "commune": "ANDOHAJANGO",
                 "region": "SOFIA",
-                "fokontany": "AMBODIMANGA  \/SERANANA",
+                "fokontany": "AMBODIMANGA  /SERANANA",
                 "district": "MANDRITSARA"
             },
             {
@@ -70556,7 +70556,7 @@
             {
                 "commune": "ANTANAMBAON'AMBERINA",
                 "region": "SOFIA",
-                "fokontany": "AMBOHIMAHAVELONA\/MAHAFINARITRA",
+                "fokontany": "AMBOHIMAHAVELONA/MAHAFINARITRA",
                 "district": "MANDRITSARA"
             },
             {
@@ -70812,19 +70812,19 @@
             {
                 "commune": "ANTSOHA",
                 "region": "SOFIA",
-                "fokontany": "AMBOHITSARA NORD \/ AMBODILENGO \/",
+                "fokontany": "AMBOHITSARA NORD / AMBODILENGO /",
                 "district": "MANDRITSARA"
             },
             {
                 "commune": "ANTSOHA",
                 "region": "SOFIA",
-                "fokontany": "AMBALASATRANA \/ AMBODIMADIRO NO",
+                "fokontany": "AMBALASATRANA / AMBODIMADIRO NO",
                 "district": "MANDRITSARA"
             },
             {
                 "commune": "ANTSOHA",
                 "region": "SOFIA",
-                "fokontany": "ANDILANA  \/ ANDILAMBOLA",
+                "fokontany": "ANDILANA  / ANDILAMBOLA",
                 "district": "MANDRITSARA"
             },
             {
@@ -71874,7 +71874,7 @@
             {
                 "commune": "LEANJA",
                 "region": "SOFIA",
-                "fokontany": "LEANJA\/ANTSANGAMBATO",
+                "fokontany": "LEANJA/ANTSANGAMBATO",
                 "district": "PORT-BERGE"
             },
             {
@@ -71928,7 +71928,7 @@
             {
                 "commune": "LEANJA",
                 "region": "SOFIA",
-                "fokontany": "MAROSELY\/ANKAZAMBO",
+                "fokontany": "MAROSELY/ANKAZAMBO",
                 "district": "PORT-BERGE"
             },
             {
@@ -82876,7 +82876,7 @@
             {
                 "commune": "AMBALARONDRA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO\/TSIAZONTENINA",
+                "fokontany": "TANAMBAO/TSIAZONTENINA",
                 "district": "BRICKAVILLE"
             },
             {
@@ -83120,7 +83120,7 @@
             {
                 "commune": "ANDOVORANTO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBILA\/LEMAITSO",
+                "fokontany": "AMBILA/LEMAITSO",
                 "district": "BRICKAVILLE"
             },
             {
@@ -83224,7 +83224,7 @@
             {
                 "commune": "ANIVORANO EST",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO\/SAHANIVENO",
+                "fokontany": "TANAMBAO/SAHANIVENO",
                 "district": "BRICKAVILLE"
             }
         ],
@@ -83612,7 +83612,7 @@
             {
                 "commune": "LOHARIANDAVA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO\/SANJAVIAVY",
+                "fokontany": "TANAMBAO/SANJAVIAVY",
                 "district": "BRICKAVILLE"
             }
         ],
@@ -86158,115 +86158,115 @@
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "BERYL ROSE  P\/LLE 13\/63",
+                "fokontany": "BERYL ROSE  P/LLE 13/63",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "ANJOMA LAVA PLLE 23\/31",
+                "fokontany": "ANJOMA LAVA PLLE 23/31",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO II  P\/LLE 31\/11",
+                "fokontany": "TANAMBAO II  P/LLE 31/11",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO I P\/LLE 31\/21",
+                "fokontany": "TANAMBAO I P/LLE 31/21",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "CITE DUPLEX  PLLE 32\/12",
+                "fokontany": "CITE DUPLEX  PLLE 32/12",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "CITE DES MANGUIERS - PLLE 32\/21-22",
+                "fokontany": "CITE DES MANGUIERS - PLLE 32/21-22",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "CITES DES DOUANES - PLLE 32\/23",
+                "fokontany": "CITES DES DOUANES - PLLE 32/23",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "BAZAR BE - PLLE 32\/24",
+                "fokontany": "BAZAR BE - PLLE 32/24",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "ANJOMA MPF SUD - PLLE 32\/32",
+                "fokontany": "ANJOMA MPF SUD - PLLE 32/32",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "ANJOMA MPF EST - PLLE 32\/31",
+                "fokontany": "ANJOMA MPF EST - PLLE 32/31",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "AMPASIMAZAVA EST PLLE 32\/41-42",
+                "fokontany": "AMPASIMAZAVA EST PLLE 32/41-42",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "AMPASIMAZAVA OUEST PLLE 32\/43-44",
+                "fokontany": "AMPASIMAZAVA OUEST PLLE 32/43-44",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "BERYL ROSE P\/LLE 13\/64",
+                "fokontany": "BERYL ROSE P/LLE 13/64",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "CITE PROCOPS P\/LLE 31\/22",
+                "fokontany": "CITE PROCOPS P/LLE 31/22",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO II P\/LLE 31\/12",
+                "fokontany": "TANAMBAO II P/LLE 31/12",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO II P\/LLE 31\/13",
+                "fokontany": "TANAMBAO II P/LLE 31/13",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO II P\/LLE 31\/14",
+                "fokontany": "TANAMBAO II P/LLE 31/14",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "CITE NOUVELLE VILLE P\/LLE 32\/11",
+                "fokontany": "CITE NOUVELLE VILLE P/LLE 32/11",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA",
                 "region": "ATSINANANA",
-                "fokontany": "CITE MARABOUT P\/LLE 32\/13",
+                "fokontany": "CITE MARABOUT P/LLE 32/13",
                 "district": "TOAMASINA I"
             }
         ],
@@ -86274,127 +86274,127 @@
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "ANDRORANGA - PLLE 22\/11",
+                "fokontany": "ANDRORANGA - PLLE 22/11",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBOROZANA EST - PLLE 22\/21",
+                "fokontany": "TANAMBOROZANA EST - PLLE 22/21",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBOROZANA OUEST  - PLLE 22\/31",
+                "fokontany": "TANAMBOROZANA OUEST  - PLLE 22/31",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "CITE CANADA  PLLE 23\/11",
+                "fokontany": "CITE CANADA  PLLE 23/11",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "ANJOMA I - PLLE 23\/21",
+                "fokontany": "ANJOMA I - PLLE 23/21",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23\/4",
+                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23/4",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "ANDRORANGA - P\/LLE 22\/12",
+                "fokontany": "ANDRORANGA - P/LLE 22/12",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "ANDRORANGA - P\/LLE 22\/13",
+                "fokontany": "ANDRORANGA - P/LLE 22/13",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBOROZANA EST- P\/LLE 22\/22",
+                "fokontany": "TANAMBOROZANA EST- P/LLE 22/22",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBOROZANA EST -P\/LLE 22\/23",
+                "fokontany": "TANAMBOROZANA EST -P/LLE 22/23",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBOROZANA OUEST -P\/LLE 22\/32",
+                "fokontany": "TANAMBOROZANA OUEST -P/LLE 22/32",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBOROZANA OUEST - P\/LLE 22\/33",
+                "fokontany": "TANAMBOROZANA OUEST - P/LLE 22/33",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "CITE CANADA P\/LLE 23\/12",
+                "fokontany": "CITE CANADA P/LLE 23/12",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "ANJOMA I -P\/LLE 23\/22",
+                "fokontany": "ANJOMA I -P/LLE 23/22",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "ANJOMA I - P\/LLE 23\/23",
+                "fokontany": "ANJOMA I - P/LLE 23/23",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "ANJOMA I - P\/LLE 23\/24",
+                "fokontany": "ANJOMA I - P/LLE 23/24",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "ANJOMA I - P\/LLE 23\/25",
+                "fokontany": "ANJOMA I - P/LLE 23/25",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23\/4",
+                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23/4",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23\/4",
+                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23/4",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23\/4",
+                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23/4",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANJOMA",
                 "region": "ATSINANANA",
-                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23\/4",
+                "fokontany": "DEPOT ANALAKINININA NORD - PLLE 23/4",
                 "district": "TOAMASINA I"
             }
         ],
@@ -86402,103 +86402,103 @@
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARIVOTRA NORD PLLE 11\/11",
+                "fokontany": "MANGARIVOTRA NORD PLLE 11/11",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARIVOTRA NORD PLLE 11\/12",
+                "fokontany": "MANGARIVOTRA NORD PLLE 11/12",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARIVOTRA NORD PLLE 11\/14",
+                "fokontany": "MANGARIVOTRA NORD PLLE 11/14",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY SUD PLLE 11\/21",
+                "fokontany": "ANKIRIHIRY SUD PLLE 11/21",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANDRANOMADIO PLLE 11\/42",
+                "fokontany": "ANDRANOMADIO PLLE 11/42",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "CITE HARAS - PLLE 11\/45",
+                "fokontany": "CITE HARAS - PLLE 11/45",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANDRANOMADIO PLLE 11\/41",
+                "fokontany": "ANDRANOMADIO PLLE 11/41",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANDRANOMADIO PLLE 11\/43",
+                "fokontany": "ANDRANOMADIO PLLE 11/43",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANDRANOMADIO PLLE 11\/31",
+                "fokontany": "ANDRANOMADIO PLLE 11/31",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARANO I PLLE 11\/46",
+                "fokontany": "MANGARANO I PLLE 11/46",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARANO II PLLE 11\/47",
+                "fokontany": "MANGARANO II PLLE 11/47",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY NORD - PLLE 11\/51",
+                "fokontany": "ANKIRIHIRY NORD - PLLE 11/51",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY NORD - PLLE 11\/54",
+                "fokontany": "ANKIRIHIRY NORD - PLLE 11/54",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY NORD PLLE 11\/57",
+                "fokontany": "ANKIRIHIRY NORD PLLE 11/57",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY NORD IV PLLE 11\/59",
+                "fokontany": "ANKIRIHIRY NORD IV PLLE 11/59",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "CITE VALPINSON PLLE 11\/61",
+                "fokontany": "CITE VALPINSON PLLE 11/61",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANALANKINININA HOPITALY BE PLLE 12\/2",
+                "fokontany": "ANALANKINININA HOPITALY BE PLLE 12/2",
                 "district": "TOAMASINA I"
             },
             {
@@ -86510,115 +86510,115 @@
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "SALAZAMAY NORD P\/LLE 14\/21",
+                "fokontany": "SALAZAMAY NORD P/LLE 14/21",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "SALAZAMAY SUD - PLLE 14\/22",
+                "fokontany": "SALAZAMAY SUD - PLLE 14/22",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOHIJAFY NORD PLLE 14\/31",
+                "fokontany": "AMBOHIJAFY NORD PLLE 14/31",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOHIJAFY SUD PLLE 14\/32",
+                "fokontany": "AMBOHIJAFY SUD PLLE 14/32",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "MORAFENO PLLE 14\/33",
+                "fokontany": "MORAFENO PLLE 14/33",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARIVOTRA NORD P\/LLE 11\/13",
+                "fokontany": "MANGARIVOTRA NORD P/LLE 11/13",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY SUD PLLE 11\/22",
+                "fokontany": "ANKIRIHIRY SUD PLLE 11/22",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY SUD - P\/LLE 11\/23",
+                "fokontany": "ANKIRIHIRY SUD - P/LLE 11/23",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY SUD - P\/LLE 11\/24",
+                "fokontany": "ANKIRIHIRY SUD - P/LLE 11/24",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "CITE HARAS - P\/LLE 11\/44",
+                "fokontany": "CITE HARAS - P/LLE 11/44",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANDRANOMADIO - P\/LLE 11\/45 BIS",
+                "fokontany": "ANDRANOMADIO - P/LLE 11/45 BIS",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "CITE HARAS SUD - P\/LLE 11\/32",
+                "fokontany": "CITE HARAS SUD - P/LLE 11/32",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "CITE HARAS SUD - P\/LLE 11\/33",
+                "fokontany": "CITE HARAS SUD - P/LLE 11/33",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY NORD - P\/LLE 11\/52",
+                "fokontany": "ANKIRIHIRY NORD - P/LLE 11/52",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY NORD - P\/LLE 11\/53",
+                "fokontany": "ANKIRIHIRY NORD - P/LLE 11/53",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY NORD -P\/LLE 11\/58",
+                "fokontany": "ANKIRIHIRY NORD -P/LLE 11/58",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY NORD  P\/LLE 11\/56",
+                "fokontany": "ANKIRIHIRY NORD  P/LLE 11/56",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "ANKIRIHIRY NORD - P\/LLE 11\/55",
+                "fokontany": "ANKIRIHIRY NORD - P/LLE 11/55",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. ANKIRIHIRY",
                 "region": "ATSINANANA",
-                "fokontany": "CITE VALPINSON -P\/LLE 11\/62",
+                "fokontany": "CITE VALPINSON -P/LLE 11/62",
                 "district": "TOAMASINA I"
             },
             {
@@ -86632,157 +86632,157 @@
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "MORARANO-I P\/LLE 21\/11",
+                "fokontany": "MORARANO-I P/LLE 21/11",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "MORARANO II PLLE 21\/12",
+                "fokontany": "MORARANO II PLLE 21/12",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "MORARANO IV - P\/LLE 21\/14",
+                "fokontany": "MORARANO IV - P/LLE 21/14",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA I- PLLE 21\/15",
+                "fokontany": "AMBOLOMADINIKA I- PLLE 21/15",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA I PLLE 21\/22",
+                "fokontany": "AMBOLOMADINIKA I PLLE 21/22",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA II PLLE 21\/24",
+                "fokontany": "AMBOLOMADINIKA II PLLE 21/24",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA III - PLLE 21\/31",
+                "fokontany": "AMBOLOMADINIKA III - PLLE 21/31",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA IV - PLLE 21\/42",
+                "fokontany": "AMBOLOMADINIKA IV - PLLE 21/42",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA V PLLE 21\/41",
+                "fokontany": "AMBOLOMADINIKA V PLLE 21/41",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARIVOTRA SUD I PLLE 21\/51",
+                "fokontany": "MANGARIVOTRA SUD I PLLE 21/51",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARIVOTRA SUD II PLLE 21\/53",
+                "fokontany": "MANGARIVOTRA SUD II PLLE 21/53",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBALAKISOA PLLE 21\/61",
+                "fokontany": "AMBALAKISOA PLLE 21/61",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO VERRERIE I PLLE 21\/71",
+                "fokontany": "TANAMBAO VERRERIE I PLLE 21/71",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO VERRERIE II PLLE 21\/74",
+                "fokontany": "TANAMBAO VERRERIE II PLLE 21/74",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "MORARANO III P\/LLE 21\/13",
+                "fokontany": "MORARANO III P/LLE 21/13",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA I - P\/LLE 21\/21",
+                "fokontany": "AMBOLOMADINIKA I - P/LLE 21/21",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA II - P\/LLE 21\/23",
+                "fokontany": "AMBOLOMADINIKA II - P/LLE 21/23",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA IV P\/LLE 21\/32",
+                "fokontany": "AMBOLOMADINIKA IV P/LLE 21/32",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA V - P\/LLE 21\/43",
+                "fokontany": "AMBOLOMADINIKA V - P/LLE 21/43",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARIVOTRA SUD - PLLE 21\/52",
+                "fokontany": "MANGARIVOTRA SUD - PLLE 21/52",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "MANGARIVOTRA SUD -PLLE 21\/54",
+                "fokontany": "MANGARIVOTRA SUD -PLLE 21/54",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBALAKISOA -PLLE 21\/62",
+                "fokontany": "AMBALAKISOA -PLLE 21/62",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBALAKISOA PLLE 21\/63-64",
+                "fokontany": "AMBALAKISOA PLLE 21/63-64",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO VERRERIE -PLLE 21\/72",
+                "fokontany": "TANAMBAO VERRERIE -PLLE 21/72",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO VERRERIE - PLLE 21\/73",
+                "fokontany": "TANAMBAO VERRERIE - PLLE 21/73",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. MORARANO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA V PLLE 21\/33",
+                "fokontany": "AMBOLOMADINIKA V PLLE 21/33",
                 "district": "TOAMASINA I"
             }
         ],
@@ -86790,205 +86790,205 @@
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMAKOA PLLE 12\/11",
+                "fokontany": "TANAMAKOA PLLE 12/11",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA  P\/LLE 13\/11",
+                "fokontany": "AMBOLOMADINIKA  P/LLE 13/11",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA PLLE 13\/12",
+                "fokontany": "AMBOLOMADINIKA PLLE 13/12",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "LA POUDRETTE PLLE 13\/44",
+                "fokontany": "LA POUDRETTE PLLE 13/44",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V PLLE 13\/53-54",
+                "fokontany": "TANAMBAO V PLLE 13/53-54",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "CITE IMMOBILIERE - PLLE 13\/61",
+                "fokontany": "CITE IMMOBILIERE - PLLE 13/61",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "CITE BERYL ROUGE PLLE 13\/62",
+                "fokontany": "CITE BERYL ROUGE PLLE 13/62",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V  PLLE 13\/72",
+                "fokontany": "TANAMBAO V  PLLE 13/72",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "CITE PROVINCE  PLLE 13\/76",
+                "fokontany": "CITE PROVINCE  PLLE 13/76",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V PLLE 13\/81",
+                "fokontany": "TANAMBAO V PLLE 13/81",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "BERYL ROUGE  PLLE 13\/92",
+                "fokontany": "BERYL ROUGE  PLLE 13/92",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMAKOA PLLE 12\/13",
+                "fokontany": "TANAMAKOA PLLE 12/13",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMAKOA PLLE 12\/12",
+                "fokontany": "TANAMAKOA PLLE 12/12",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMAKOA PLLE 12\/14",
+                "fokontany": "TANAMAKOA PLLE 12/14",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA PLLE 13\/21",
+                "fokontany": "AMBOLOMADINIKA PLLE 13/21",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA  PLLE 13\/32",
+                "fokontany": "AMBOLOMADINIKA  PLLE 13/32",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA PLLE 13\/22",
+                "fokontany": "AMBOLOMADINIKA PLLE 13/22",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA PLLE 13\/31",
+                "fokontany": "AMBOLOMADINIKA PLLE 13/31",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA PLLE 13\/33",
+                "fokontany": "AMBOLOMADINIKA PLLE 13/33",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA PLLE 13\/34",
+                "fokontany": "AMBOLOMADINIKA PLLE 13/34",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA  PLLE 13\/35",
+                "fokontany": "AMBOLOMADINIKA  PLLE 13/35",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA PLLE 13\/36",
+                "fokontany": "AMBOLOMADINIKA PLLE 13/36",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "AMBOLOMADINIKA  PLLE 13\/23-24",
+                "fokontany": "AMBOLOMADINIKA  PLLE 13/23-24",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "LA POUDRETTE PLLE 13\/45-46",
+                "fokontany": "LA POUDRETTE PLLE 13/45-46",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "LA POUDRETTE PLLE 13\/41-42",
+                "fokontany": "LA POUDRETTE PLLE 13/41-42",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "LA POUDRETTE PLLE  13\/43",
+                "fokontany": "LA POUDRETTE PLLE  13/43",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V PLLE 13\/51-52",
+                "fokontany": "TANAMBAO V PLLE 13/51-52",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V PLLE 13\/74",
+                "fokontany": "TANAMBAO V PLLE 13/74",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V PLLE 13\/75",
+                "fokontany": "TANAMBAO V PLLE 13/75",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V PLLE 13\/73",
+                "fokontany": "TANAMBAO V PLLE 13/73",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V  PLLE 13\/71",
+                "fokontany": "TANAMBAO V  PLLE 13/71",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V PLLE 13\/82-83",
+                "fokontany": "TANAMBAO V PLLE 13/82-83",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "TANAMBAO V PLLE 13\/91",
+                "fokontany": "TANAMBAO V PLLE 13/91",
                 "district": "TOAMASINA I"
             },
             {
                 "commune": "CU TOAMASINA arr. TANAMBAO",
                 "region": "ATSINANANA",
-                "fokontany": "BERYL ROUGE PLLE 13\/93",
+                "fokontany": "BERYL ROUGE PLLE 13/93",
                 "district": "TOAMASINA I"
             }
         ],
@@ -88762,7 +88762,7 @@
             {
                 "commune": "SAHAMATEVINA",
                 "region": "ATSINANANA",
-                "fokontany": "ANTANAMBAO\/NOSIMANASA",
+                "fokontany": "ANTANAMBAO/NOSIMANASA",
                 "district": "VATOMANDRY"
             },
             {
@@ -89126,7 +89126,7 @@
             {
                 "commune": "AMBANISARIKA",
                 "region": "ANDROY",
-                "fokontany": "ETSOHA\/MAROFOTY",
+                "fokontany": "ETSOHA/MAROFOTY",
                 "district": "AMBOVOMBE ANDROY"
             },
             {
@@ -98472,7 +98472,7 @@
             {
                 "commune": "MAROLINTA",
                 "region": "ANDROY",
-                "fokontany": "TAMBALA\/KAREMBOLA",
+                "fokontany": "TAMBALA/KAREMBOLA",
                 "district": "BELOHA ANDROY"
             },
             {
@@ -98756,7 +98756,7 @@
             {
                 "commune": "TRANOROA",
                 "region": "ANDROY",
-                "fokontany": "ANKILIROA\/KIJAFO",
+                "fokontany": "ANKILIROA/KIJAFO",
                 "district": "BELOHA ANDROY"
             },
             {
@@ -118096,7 +118096,7 @@
             {
                 "commune": "AMBATOLAHY",
                 "region": "MENABE",
-                "fokontany": "SOASERANA \/ ANTEVAMENA",
+                "fokontany": "SOASERANA / ANTEVAMENA",
                 "district": "MIANDRIVAZO"
             },
             {

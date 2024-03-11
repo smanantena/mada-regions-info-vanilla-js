@@ -67,17 +67,21 @@ body {
 }
 
 .table-standard {
-    width: 100%;
-}
-
-.table-standard {
     text-align: center;
     border-collapse: collapse;
+    width: 100%;
+    overflow-x: auto;
 }
 
 th, td {
-    padding-top: .5rem;
-    padding-bottom: .5rem;
+    padding-top: .7rem;
+    padding-bottom: .7rem;
+    word-wrap: break-word;
+    max-width: 40px;
+}
+
+tbody td {
+    border-bottom: solid 1px #b9b9b9;
 }
 
 thead tr th {
@@ -103,4 +107,26 @@ input#saisi-input {
 
 footer {
     padding-bottom: 2rem;
+}
+
+.hit-cell {
+    background-color: #ebecff;
+}
+
+@media screen and (max-width:768px) {
+    table.table-standard tbody tr td:nth-child(4), table.table-standard thead tr th:nth-child(4) {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 425px) {
+    table.table-standard tbody tr td:nth-child(4), table.table-standard thead tr th:nth-child(4), table.table-standard tbody tr td:nth-child(3), table.table-standard thead tr th:nth-child(3) {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    table.table-standard tbody tr td:nth-child(4), table.table-standard thead tr th:nth-child(4), table.table-standard tbody tr td:nth-child(3), table.table-standard thead tr th:nth-child(3), table.table-standard tbody tr td:nth-child(2), table.table-standard thead tr th:nth-child(2) {
+        display: none;
+    }
 }
